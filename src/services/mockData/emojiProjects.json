@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "inputType": "text",
+    "inputData": "happy coffee",
+    "variants": [
+      {
+        "id": "variant_1_1",
+        "mood": "happy",
+        "colors": { "primary": "#FFE66D", "secondary": "#FF6B6B" },
+        "isAnimated": false
+      },
+      {
+        "id": "variant_1_2", 
+        "mood": "excited",
+        "colors": { "primary": "#4ECDC4", "secondary": "#FFE66D" },
+        "isAnimated": true
+      }
+    ],
+    "selectedVariant": 0,
+    "customizations": {
+      "primaryColor": "#FFE66D",
+      "mood": "happy",
+      "skinTone": "medium",
+      "theme": "food"
+    },
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "inputType": "draw",
+    "inputData": "canvas_data_blob",
+    "variants": [
+      {
+        "id": "variant_2_1",
+        "mood": "cool",
+        "colors": { "primary": "#339AF0", "secondary": "#4ECDC4" },
+        "isAnimated": false
+      },
+      {
+        "id": "variant_2_2",
+        "mood": "chill", 
+        "colors": { "primary": "#51CF66", "secondary": "#4ECDC4" },
+        "isAnimated": false
+      }
+    ],
+    "selectedVariant": 1,
+    "customizations": {
+      "primaryColor": "#51CF66",
+      "mood": "chill",
+      "skinTone": "light",
+      "theme": "nature"
+    },
+    "createdAt": "2024-01-14T16:45:00Z"
+  },
+  {
+    "id": "3",
+    "inputType": "photo",
+    "inputData": "selfie_image_data",
+    "variants": [
+      {
+        "id": "variant_3_1",
+        "mood": "love",
+        "colors": { "primary": "#FF6B6B", "secondary": "#FFE66D" },
+        "isAnimated": true
+      },
+      {
+        "id": "variant_3_2",
+        "mood": "surprised",
+        "colors": { "primary": "#FFD93D", "secondary": "#FF6B6B" },
+        "isAnimated": false
+      }
+    ],
+    "selectedVariant": 0,
+    "customizations": {
+      "primaryColor": "#FF6B6B",
+      "mood": "love",
+      "skinTone": "dark",
+      "theme": "people"
+    },
+    "createdAt": "2024-01-13T09:20:00Z"
+  }
+]

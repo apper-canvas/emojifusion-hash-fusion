@@ -1,0 +1,67 @@
+[
+  {
+    "id": "variant_1_1",
+    "imageData": "mock_svg_data_happy",
+    "mood": "happy",
+    "colors": {
+      "primary": "#FFE66D",
+      "secondary": "#FF6B6B",
+      "accent": "#4ECDC4"
+    },
+    "isAnimated": false,
+    "skinTone": "medium",
+    "theme": "general"
+  },
+  {
+    "id": "variant_1_2",
+    "imageData": "mock_svg_data_excited", 
+    "mood": "excited",
+    "colors": {
+      "primary": "#4ECDC4",
+      "secondary": "#FFE66D",
+      "accent": "#FF6B6B"
+    },
+    "isAnimated": true,
+    "skinTone": "medium",
+    "theme": "general"
+  },
+  {
+    "id": "variant_2_1",
+    "imageData": "mock_svg_data_cool",
+    "mood": "cool", 
+    "colors": {
+      "primary": "#339AF0",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D"
+    },
+    "isAnimated": false,
+    "skinTone": "light",
+    "theme": "tech"
+  },
+  {
+    "id": "variant_2_2",
+    "imageData": "mock_svg_data_chill",
+    "mood": "chill",
+    "colors": {
+      "primary": "#51CF66", 
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D"
+    },
+    "isAnimated": false,
+    "skinTone": "light",
+    "theme": "nature"
+  },
+  {
+    "id": "variant_3_1", 
+    "imageData": "mock_svg_data_love",
+    "mood": "love",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#FFE66D",
+      "accent": "#4ECDC4"
+    },
+    "isAnimated": true,
+    "skinTone": "dark",
+    "theme": "people"
+  }
+]
