@@ -60,8 +60,21 @@
       "secondary": "#FFE66D",
       "accent": "#4ECDC4"
     },
-    "isAnimated": true,
+"isAnimated": true,
     "skinTone": "dark",
     "theme": "people"
+  },
+  {
+    "id": "variant_4_1",
+    "imageData": "mock_svg_data_sleepy_coffee",
+    "mood": "sleepy",
+    "colors": {
+      "primary": "#8B4513",
+      "secondary": "#D2B48C", 
+      "accent": "#F5F5DC"
+    },
+    "isAnimated": false,
+    "skinTone": "medium",
+    "theme": "lifestyle"
   }
 ]
